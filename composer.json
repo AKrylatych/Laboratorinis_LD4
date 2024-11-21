@@ -2,7 +2,7 @@
   "name": "aleksandras/testavimas-ld4",
   "description": "Laboratorinis_darbas",
   "require": {
-    "phpunit/phpunit": "11.4.3"
+    "phpunit/phpunit": "^11"
   },
   "scripts": {
     "test": "vendor/bin/phpunit --testdox --colors=always tests"
