@@ -1,8 +1,11 @@
 {
+  "name": "aleksandras/testavimas-ld4",
+  "description": "Laboratorinis_darbas",
   "require": {
     "phpunit/phpunit": "@stable"
   },
   "scripts": {
     "test": "vendor/bin/phpunit --testdox --colors=always tests"
-  }
+  },
+  "license": "MIT"
 }
