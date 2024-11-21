@@ -7,5 +7,10 @@
   "scripts": {
     "test": "vendor/bin/phpunit --testdox --colors=always tests"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "config": {
+    "platform": {
+      "php": "8.2"
+    }
+  }
 }
