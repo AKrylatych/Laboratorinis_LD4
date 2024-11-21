@@ -1,1 +1,0 @@
-{"version":1,"defects":{"SigninTest::testSignin":7,"SignupTest::testCharDetector":7,"SignupTest::testcheck_user_duplicates":7,"SignupTest::testcreate_user_entry":7},"times":{"SigninTest::testSignin":0.127,"SignupTest::testSignup":0.002,"SignupTest::testCharDetector":0,"SignupTest::testcheck_user_duplicates":0,"SignupTest::testcreate_user_entry":0.041}}
