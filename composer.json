@@ -5,7 +5,7 @@
     "phpunit/phpunit": "^11"
   },
   "scripts": {
-    "test": "vendor/bin/phpunit --testdox --colors=always tests"
+    "test": "php vendor/bin/phpunit --testdox --colors=always tests"
   },
   "license": "MIT",
   "config": {
