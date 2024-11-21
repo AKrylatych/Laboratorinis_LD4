@@ -1,6 +1,7 @@
 <?php declare(strict_types=1);
 use PHPUnit\Framework\TestCase;
-include "../login/login_lib.php";
+include __DIR__ . '/../login/login_lib.php';
+
 final class SigninTest extends TestCase {
     public function testSignin() {
 

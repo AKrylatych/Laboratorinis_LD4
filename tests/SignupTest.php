@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 use PHPUnit\Framework\TestCase;
-require "../register/register_lib.php";
+include __DIR__ . '/../register/register_lib.php';
 
 final class SignupTest extends TestCase {
 
