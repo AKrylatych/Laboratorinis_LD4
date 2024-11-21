@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+
+}
+.loginbtn {
+    height: 50px;
+}
+.headerbar {
+    display: inline-block;
+    height: 50px;
+    padding: 0px;
+}
+.headerbar form {
+    display: inline;
+
+    width: 200px;
+}
+.headerbar p {
+    width: 300px;
+}
+.headerbar, .footer {
+    background-color: lightslategray;
+    width: 100%;
+}
+.content {
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+}
