@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'aleksandras/testavimas-ld4',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'aleksandras/testavimas-ld4' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => null,
